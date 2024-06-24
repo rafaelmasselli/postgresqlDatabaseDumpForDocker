@@ -26,8 +26,8 @@ DB_PORT = "5432" # Porta do PostgreSQL
 DUMP_FILE = "backup.sql" # Nome do arquivo de dump a ser gerado
 CONTAINER_NAME = "postgres_container" # Nome do contêiner Docker onde o PostgreSQL será executado
 POSTGRES_PASSWORD = "1234" # Senha do usuário postgres do PostgreSQL
-Ajuste essas variáveis de acordo com as configurações do seu ambiente PostgreSQL e Docker.
 ```
+Ajuste essas variáveis de acordo com as configurações do seu ambiente PostgreSQL e Docker.
 
 ### Instalação de Dependências:
 
